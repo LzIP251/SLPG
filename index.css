@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HW0M2u2T8oZPOdXQ6bPrOM-07v9mNNfU-A&usqp=CAU");
+}
+
+.center {
+    padding-top: 15%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: darkslateblue;
+}
+
+button {
+    padding: 5px;
+    border: none;
+}
+
+.title {
+    padding:5px;
+}
+
+#output {
+    padding: 8px;
+}
