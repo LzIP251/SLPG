@@ -9,5 +9,5 @@ function plateGen() {
     let num2 = Math.floor(Math.random() * 9);
     let num3 = Math.floor(Math.random() * 9);
 
-    document.getElementById("output").innerHTML = "OUTPUT: " + areaCodes[areaCode] + "-" + letters[ltr1] + letters[ltr2] + "-" + numbers[num1] + numbers[num2] + numbers[num3];
+    document.getElementById("output").innerHTML = "OUTPUT: " + areaCodes[areaCode] + " " + letters[ltr1] + letters[ltr2] + "-" + numbers[num1] + numbers[num2] + numbers[num3];
 }
